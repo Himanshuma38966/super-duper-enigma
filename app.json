@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "animal-2",
+    "slug": "snack-5590f68e-03f7-4131-aee1-59bf8fba11b4",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "android": {
+      "package": "com.himanshusaliyan.snack5590f68e03f74131aee159bf8fba11b4"
+    }
+  }
+}
